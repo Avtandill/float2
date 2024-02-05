@@ -1,0 +1,10 @@
+.box {
+    width: 232px;
+    height: 297px;
+    border: 1px solid #CCCCCC;
+    overflow-y: scroll;
+    float: left;
+}
+.img1 {
+    float: right;
+}
